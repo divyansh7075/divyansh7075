@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh</h1>
 <h3 align="center">🚀 A passionate programmer & tech enthusiast 🚀</h3>
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
