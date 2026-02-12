@@ -6,7 +6,7 @@
 ---
 
 ### 💻 About Me
-- 🎓 3nd Year Student at **VSICS, Kanpur**
+- 🎓 3rd Year Student at **VSICS, Kanpur**
 - 🌱 Currently exploring **AI & Machine Learning**
 - 🛠 Skills: **Python, HTML, CSS, Git, Java**
 - 💬 Ask me about **Programming, Problem Solving**
