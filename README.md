@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyansh</h1>
-
+<h1
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
@@ -37,17 +36,19 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/divyanshgupta07/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
 
-  <a href="https://instagram.com/_divyannsh_" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
+<a href="https://www.linkedin.com/in/divyanshgupta07/" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
-  <a href="mailto:divyanshgupta173@example.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+<a href="https://instagram.com/_divyannsh_" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+<a href="mailto:divyanshgupta173@example.com">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
 </p>
 
 ---
