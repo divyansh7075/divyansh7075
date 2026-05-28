@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Divyansh</h1>
-<h3 align="center">🚀 A passionate programmer & tech enthusiast 🚀</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -38,30 +37,19 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/divyanshgupta07/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:divyanshgupta173@example.com">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/divyanshgupta07/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <a href="https://instagram.com/_divyannsh_" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+
+  <a href="mailto:divyanshgupta173@example.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
 
 ---
 
 ⭐ From [divyansh7075](https://github.com/divyansh7075)
-
-
-<!--
-**divyansh7075/divyansh7075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
